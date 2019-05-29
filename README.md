@@ -49,3 +49,9 @@ $ jupyter notebook
 ```
 7. The browser should open the jupyter notebook and can start working on the topos.ipynb file
 
+### Files in this repository
+
+- *topos.ipynb*: The jupyter notebook is running all the web scraping and data cleaning process, also creating the result.csv file.
+- *topos.html*: The HTML file shows the running results of the jupyter notebook.
+- *result.csv*: The final csv output file for BigQuery.
+
