@@ -18,7 +18,6 @@ pandas
 numpy
 progressbar2
 jupyter notebook
-
 ```
 
 ### Steps to run the notebook
